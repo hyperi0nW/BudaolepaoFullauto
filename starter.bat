@@ -26,6 +26,6 @@ if exist "%temp%\getadmin.vbs" ( del "%temp%\getadmin.vbs" )
 REM sleep 1s
 ping -n 10 127.0>nul 
 REM start your program, if the path has space
-start "" "C:\Users\hyperi0nW\Desktop\budaolepao_fullauto.py"
+start "" "D:\下载\paobu\BudaolepaoFullauto-master"
 REM exit this cmd
 exit
